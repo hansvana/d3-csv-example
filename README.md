@@ -2,7 +2,7 @@
 
 ## Using this example
 Just download the .html and .js file somewhere and open index.html. 
-The .csv file is hosted on my server, if it no longer works then you'll have to place the .csv file somwhere yourself.
+The .csv file is hosted on my server, if it no longer works you'll have to place the .csv file somewhere yourself.
 
 ## Acknowledgements
 * The code is based on the [D3 tutorial](http://alignedleft.com/tutorials/d3/) by Scott Murray
